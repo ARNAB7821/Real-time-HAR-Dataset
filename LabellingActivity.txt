@@ -1,0 +1,2 @@
+lying (0), running (1), sitting (2),
+standing (3), and walking (4).
